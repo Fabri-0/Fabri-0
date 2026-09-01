@@ -16,7 +16,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Fabri-0/TaskFlow">
-    <img src="./assets/taskflow.webp" width="48%" alt="TaskFlow-v1">
+    <img src="./assets/taskflow-v1.webp" width="48%" alt="TaskFlow">
   </a>
 </p>
 
