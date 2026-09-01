@@ -3,9 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/fabrii-title.svg" width="460" alt="Fabrii">
-</p>
-
-<p align="center">
-  <img src="./assets/motto.svg" width="720" alt="Respira. Espera. Aixeca't sense pressa. I continua.">
+  <img src="./assets/fabrii-signature-animated.webp" width="760" alt="Fabrii">
 </p>
