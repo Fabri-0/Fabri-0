@@ -12,20 +12,15 @@
 
 <p align="center">
   <a href="https://github.com/Fabri-0/javafx-postgresql-crud">
-    <img src="./assets/javafx-postgresql.webp" width="48%" alt="JavaFX + PostgreSQL CRUD">
+    <img src="./assets/javafx-postgresql.webp" width="24%" alt="JavaFX + PostgreSQL CRUD">
   </a>
-  &nbsp;
   <a href="https://github.com/Fabri-0/TaskFlow">
-    <img src="./assets/taskflow-v1.webp" width="48%" alt="TaskFlow">
+    <img src="./assets/taskflow-v1.webp" width="24%" alt="TaskFlow">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Fabri-0/cliente-veterinaria">
-    <img src="./assets/cliente-veterinaria.webp" width="48%" alt="Cliente Veterinaria">
+    <img src="./assets/cliente-veterinaria.webp" width="24%" alt="Cliente Veterinaria">
   </a>
-  &nbsp;
   <a href="https://github.com/Fabri-0/java-coding-challenges">
-    <img src="./assets/java-challenges.webp" width="48%" alt="Java Coding Challenges">
+    <img src="./assets/java-challenges.webp" width="24%" alt="Java Coding Challenges">
   </a>
 </p>
