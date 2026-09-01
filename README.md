@@ -3,12 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/fabrii-signature-animated.webp" width="760" alt="Fabrii">
+  <img src="./assets/fabrii-signature-animated.webp" width="700" alt="Fabrii">
 </p>
 
-<br>
-
-<h2 align="center">SELECTED PROJECTS</h2>
+<h3 align="center">MY BEST BUILDS</h3>
 
 <p align="center">
   <a href="https://github.com/Fabri-0/javafx-postgresql-crud">
